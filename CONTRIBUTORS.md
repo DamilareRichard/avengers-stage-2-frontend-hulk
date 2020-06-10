@@ -3,4 +3,3 @@
 
 -  [@ifatoki](https://github.com/ifatoki)
 
-- [@Darey] (https://github.com/DamilareRichard)
