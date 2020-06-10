@@ -15,3 +15,5 @@
 
 -  [@sheriffsaka](https://github.com/sheriffsaka)
 
+-  [@Darey] (https://github.com/DamilareRichard)
+
